@@ -1,0 +1,13 @@
+.example-spacer {
+    flex: 0.95 1 auto;
+  }
+
+.link {
+  padding: 10px;
+  text-decoration: none;
+  color: aliceblue;
+}
+
+a:hover {
+  color: rgb(255, 230, 4);
+}
